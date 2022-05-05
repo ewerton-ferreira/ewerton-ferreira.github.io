@@ -4,8 +4,8 @@
 
 <div align="center">
   <a href="https://github.com/ewerton-ferreira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ewerton-ferreira&show_icons=true&theme=good&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewerton-ferreira&layout=compact&langs_count=7&theme=good"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ewerton-ferreira&show_icons=true&theme=good&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewerton-ferreira&layout=compact&langs_count=7&theme=good"/>
 </div>
   
   ### Em processo de aprendizagem
